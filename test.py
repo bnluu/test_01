@@ -1,5 +1,5 @@
 print("hello")
 
-print ("p2 hello")
+print ("p2")
 
-print("p2 hello 2")
+print("p2")
